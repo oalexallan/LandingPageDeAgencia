@@ -11,11 +11,11 @@ Comecei com `html` e indo para o `css`, com o objetivo fazer o código de uma fo
 ## Prints do projeto finalizado 👇
 
 ## Mobile
-![](./design/design-mobile.png)
+ <img src="./Design/design-mobile.png" />
 
 ## Desktop
 
-![](./design/design-desktop.png)
+![](./Design/design-desktop.png)
 
 ##  Agradecimento:
 Obrigado por ler e me apoiar, qualquer dica e sujestão é bem vinda!
