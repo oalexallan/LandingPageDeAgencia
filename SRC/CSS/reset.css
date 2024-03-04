@@ -7,6 +7,11 @@
     font-weight: 300;
     box-sizing: border-box;
 }
+hr{
+    width: 200px;
+    height: 20px;
+    color: aqua;
+}
 a{
     text-decoration: none;
     color: black;
